@@ -1,6 +1,6 @@
 # Xylophone Music App
 
-![picture alt](https://github.com/Nam-H-Nguyen/LasVegasDiceApp/blob/master/xylophone-music-app.png "Xylophone Music App written in Swift 4 for iOS 11")
+![picture alt](https://github.com/Nam-H-Nguyen/XylophoneMusicApp/blob/master/xylophone-music-app.png "Xylophone Music App written in Swift 4 for iOS 11")
 
 ### Steps to run the app: ###
 :musical_note::musical_note::musical_note:
